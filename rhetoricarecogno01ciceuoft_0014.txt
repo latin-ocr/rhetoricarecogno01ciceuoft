@@ -1,0 +1,18 @@
+SIGLA
+
+Α = cod. Abrincensis 238
+E = cod. Erlangensis 848
+H = cod. Harleianus 2736
+M = consensus codicum A E H sive omniurn sive quot
+libri exstant
+m = consensus codicum recentioris aevi mutilorum
+O = cod. ottobonianus 2057
+P = cod. Palatinus 1469
+L = O P (? cod. Laudensis)
+rece. = codices post annum 1422 exscripti
+vulg. = textus vulgo receptus
+citantur hic illic codices γ = Gudianus, ε = Erlangensis pars
+manu recentiore scripta, e = Erlangensis alter (303)
+
+viii
+
